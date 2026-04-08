@@ -1,4 +1,4 @@
--- Problem  : Weather Observation Station 9
+-- Problem  : Weather Observation Station 10
 
 SELECT DISTINCT CITY
 FROM STATION
